@@ -61,7 +61,7 @@ A equipe da "VirtualVista Games" está desenvolvendo o jogo **Galáxia Desconhec
 
 ## 🎥 Demonstração do Jogo
 
-![Demonstração do Jogo](img/profile.png)
+![Demonstração do Jogo](giftgame.gif)
 
 ---
 
