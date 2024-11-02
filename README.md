@@ -1,4 +1,4 @@
-<h1 align="center"> Galáxia Desconhecida: Jogo de Exploração Espacial </h1>
+<h1 align="center"> Galáxia Desconhecida: Projeto de Computação Gráfica e Realidade Virtual </h1>
 
 <p align="center">
 Projeto acadêmico proposto pela Universidade São Judas Tadeu para a Unidade Curricular <strong>Computação Gráfica e Realidade Virtual</strong>. <br/>
